@@ -32,9 +32,6 @@ The system captures, verifies, and records attendance efficiently with minimal h
 4. System matches input with stored data  
 5. If matched, attendance is recorded  
 
-## 📸 Project Demonstration
-(Add images or videos here)
-
 ## 📈 Future Improvements
 - Wireless data logging
 - Mobile or web-based dashboard
@@ -42,4 +39,4 @@ The system captures, verifies, and records attendance efficiently with minimal h
 - Face recognition support
 
 ## 👨‍💻 Author
-Your Name
+Arya
